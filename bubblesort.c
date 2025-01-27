@@ -13,7 +13,7 @@ typedef struct {
 
 void exibir_items(Item *itens, int count) {
     for (int i = 0; i < count; i++) {
-        printf("Nome: %s\n", itens[i].nome);
+        printf("%s\n", itens[i].nome);
     }
 }
 
