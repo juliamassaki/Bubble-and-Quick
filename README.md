@@ -32,5 +32,5 @@ int escolher_pivo(Item *itens, int low, int high) {
 
 ## observações
 - Não há atualizações do codigo no github, porque quando soube que era necessário entregar via github o codigo já estava pronto, assim não houveram mudanças.
-- Tempo de execucao do Bubble Sort: 4570.048101 segundos
+- Tempo de execucao do Bubble Sort: 4494.919363 segundos
 - Tempo de execucao do Quick Sort: 0.539955 segundos
